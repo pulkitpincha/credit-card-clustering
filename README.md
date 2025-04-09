@@ -2,7 +2,7 @@
 
 Dataset: https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
 
-Credit card clustering using K-Means and profiling them
+Credit card user clustering using K-Means and profiling them
 
 ## Data Wrangling
 
